@@ -1,0 +1,26 @@
+.photo{
+  width: 300px
+}
+
+.borders{
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+}
+
+.holder{
+  width: 300px;
+  padding: 10px;
+}
+
+.content{
+  padding: 10px;
+}
+
+.title{
+  margin-top: 0;
+}
+
+span{
+  font-weight: bold;
+}
